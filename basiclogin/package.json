@@ -6,7 +6,7 @@
   "scripts": {
     "devStart": "nodemon server.js"
   },
-  "author": "Christopher Luhrman",
+  "author": "Theresa Tran",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
